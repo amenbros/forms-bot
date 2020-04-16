@@ -1,4 +1,4 @@
-var POST_URL = "https://discordapp.com/api/webhooks/692037622817751141/rMFx-05Kbf5-1aPtFNLGn9cyZtGbYWtBW2VRpkDSNq8Ue_l0_fzfk9aLGAn8CR3wymlW";
+var POST_URL = 
 
 function deleteResponses() {
   var form = FormApp.openById('1j0xZQrTLUgrdUsAfGVJ6KWHN6GZA0b94SUdipQ1jaOw');
